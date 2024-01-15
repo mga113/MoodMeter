@@ -1,4 +1,4 @@
-# SMM: 353 Project 
+# Project Instructions
 
 Description:
 The primary objective is to understand and compare the sentiments of SFU and UBC subreddits throughout the school year
